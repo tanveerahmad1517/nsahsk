@@ -1,10 +1,10 @@
 # WINDOWS RDP FREE WITH ACTION
-uhh do you want a free rdp windows server 2019 :?
-OK it really easy with github :VVVVVVVV
-OK,Let's start
+*uhh do you want a free rdp windows server 2019 :?*
+*OK it really easy with github :VVVVVVVV*
+*OK,Let's start*
 
 
-*follow this step*
+# *follow this step*
 
 - *click the Fork in the left corner(UHHH MY ENGLISH IS SO BAD) to stolen this repo :))*
 - *Then go to the ngrok.com and sign in to this (or regster)*
